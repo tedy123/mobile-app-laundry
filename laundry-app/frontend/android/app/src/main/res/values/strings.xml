@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">laundry-app</string>
+    <string name="title_activity_main">laundry-app</string>
+    <string name="package_name">com.example.app</string>
+    <string name="custom_url_scheme">com.example.app</string>
+    <string name="server_client_id">971457850261-v3mf97mkgknhciestbrta83tbrh9tm3d.apps.googleusercontent.com</string>
+</resources>

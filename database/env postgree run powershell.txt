@@ -1,0 +1,5 @@
+$env:DATABASE_URL="postgres://postgres:Laundry123@localhost:5432/TestCaseLaundryApp?sslmode=disable"
+
+
+api running di 4000 
+& "C:\Users\THINKPAD X13\AppData\Local\Android\Sdk\platform-tools\adb.exe" reverse tcp:4000 tcp:4000
